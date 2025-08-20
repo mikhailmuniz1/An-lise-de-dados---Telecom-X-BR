@@ -1,3 +1,5 @@
+Análise de Dados — Telecom X BR
+
 Projeto de análise exploratória e modelagem com dados do setor de telecom no Brasil, focado em métricas de negócio (ex.: churn, ARPU, ticket médio) e geração de insights acionáveis para áreas de Produto, Marketing e CX.
 
 Por que este projeto existe?
